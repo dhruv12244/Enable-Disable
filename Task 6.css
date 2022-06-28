@@ -1,0 +1,101 @@
+/* table, th, td {
+    border: 1px solid blue;
+    border-collapse: collapse;
+    size: 137px;
+    margin: 165px 36px 57px 271px;
+    width: 800px;
+    height: 61px;
+  }
+  
+  .product {
+    margin: -12px 6px -13px 144px;
+  }
+  
+  .remove {
+    background-color: red;
+    cursor: pointer;
+    margin: 0px -10px -24px 159px;
+  }
+  
+  
+  .Add {
+    background-color: white;
+    cursor: pointer;
+    width: 100px;
+    height: 35px;
+    margin: -39px -24px -214px 275px;
+  }
+  
+  table, th, td {
+    border: 1px solid blue;
+    border-collapse: collapse;
+    size: 137px;
+    margin: 165px 36px 57px 271px;
+    width: 800px;
+    height: 61px;
+  }
+  
+  .product {
+    margin: -12px 6px -13px 144px;
+  }
+  
+  .remove {
+    background-color: red;
+    cursor: pointer;
+    margin: 0px -10px -24px 159px;
+  }
+  
+  
+  .Add {
+    background-color: white;
+    cursor: pointer;
+    width: 100px;
+    height: 35px;
+    margin: -39px -24px -214px 275px;
+  } */
+
+
+  body {
+    width: 1410px;
+    height: 295px;
+    padding-top: 10px;
+    padding-right: 8px;
+    padding-left: 0px;
+    padding-bottom: 8px;
+}
+  
+table, th, td {
+  border: 1px solid blue;
+  border-collapse: collapse;
+  size: 137px;
+  margin: 100px 36px 57px 271px;
+  width: 386px;
+  height: 61px;
+}
+  
+  
+  select{
+    width: 299px;
+    height: 43px;
+  }
+  
+  .DROPDOWN {
+    margin: -6px 55px -1px 60px;
+}
+  
+  .rem {
+    background-color: red;
+    cursor: pointer;
+    margin: 1px 106px 0px 180px;
+    padding: 10px 15px 10px 15px;
+}
+  
+  
+  .addbutton {
+    background-color: white;
+    cursor: pointer;
+    width: 100px;
+    height: 35px;
+    margin: -39px -24px -214px 275px;
+  }
+	
